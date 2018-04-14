@@ -132,4 +132,8 @@ gword.htm.
 A second visualization is in gline.py.  It visualizes email participation by 
 organizations over time.
 
+
+![](snips/gline_snip.PNG)<!-- -->
+
+
 Its output is written to gline.js which is visualized using gline.htm.
