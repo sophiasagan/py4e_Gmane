@@ -126,6 +126,9 @@ in the file gword.py.
 This produces the file gword.js which you can visualize using the file 
 gword.htm.
 
+![](snips/gword_snip.PNG)<!-- -->
+
+
 A second visualization is in gline.py.  It visualizes email participation by 
 organizations over time.
 
